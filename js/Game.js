@@ -23,4 +23,4 @@ class Game {
       form.display();
     }
   }
-}
+}  
